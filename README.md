@@ -6,7 +6,7 @@ Olá! Me chamo **Aldo Silva**, sou apaixonado por tecnologia e atualmente estou 
 Gosto de criar aplicações robustas e escaláveis, seguindo boas práticas e arquiteturas modernas.
 
 - 🎯 Em busca de oportunidades como **Desenvolvedor Backend Júnior**
-- 🌱 Estudando **Spring Boot**, **JPA/Hibernate**, **REST APIs**, **MongoDB** e **Docker**
+- 🌱 Estudando **Spring Boot**, **JPA/Hibernate**, **REST APIs**, **MongoDB**
 - 🛠️ Aplicando conceitos de **Clean Code**, **SOLID** e **DDD**
 - 🎸 Curiosidade: Toco guitarra e sou apaixonado por música 🎶
 
@@ -15,11 +15,11 @@ Gosto de criar aplicações robustas e escaláveis, seguindo boas práticas e ar
 ## 🚀 Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div>
