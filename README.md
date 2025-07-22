@@ -13,7 +13,7 @@ Gosto de criar aplicações robustas e escaláveis, seguindo boas práticas e ar
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="align: center; gap: 10px" ">
+<div align="center" ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
