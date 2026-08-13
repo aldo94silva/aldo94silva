@@ -30,9 +30,16 @@ Gosto de criar aplicações robustas e escaláveis, seguindo boas práticas e ar
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldo94silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldo94silva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=aldo94silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=aldo94silva&layout=compact&langs_count=7&theme=dracula"
+  />
+</div>>
 
 ---
 
